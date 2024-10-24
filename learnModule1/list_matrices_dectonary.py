@@ -1,4 +1,3 @@
-from unittest.mock import numerics
 
 print("List : ")
 fruits = ["mango", "apple", "banana", "orange"]
