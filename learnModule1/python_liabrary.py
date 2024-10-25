@@ -12,7 +12,7 @@ df = pd.DataFrame({
     'A': [1, 2],
     'B': [3, 4]
 })
-print("Data frame : \n", df)
+print("DataSet frame : \n", df)
 arr = np.array([1, 2, 3])
 print("Numpy mean : \n", np.mean(arr))
 print("State cdf : \n", norm.cdf(0))
